@@ -61,3 +61,6 @@ localhost/elib
 
 Your app is now hosted locally
 
+admin account:
+  username: admin
+  passsword: passw0rd
